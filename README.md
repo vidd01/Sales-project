@@ -1,15 +1,15 @@
 # Sales-project
-In this project I analyzed the data to understand the Retail sector contribution to North American economy
+In this project, I analyzed the data to understand the Retail sector's contribution to the North American economy
 
 ## Introduction
-I used the python language(pandas,numpy,mathplotlib) to visualize this project. Retail sector plays a vital role in North America, So to get more insights on market trends, consumer behavior, and economic growth is important for businesses. Also efficient tactics needed to boost sales and reduce inventory waste due to competition in retail sector. Targeted audience are multinational retail chain management who wants to expand in Canada.
+I used the Python language(pandas, numpy, mathplotlib) to visualize this project. The retail sector plays a vital role in North America, So to get more insights into market trends, consumer behavior, and economic growth is important for businesses. Also, efficient tactics are needed to boost sales and reduce inventory waste due to competition in the retail sector. The targeted audience is multinational retail chain management who wants to expand in Canada.
 
 ## About this project
-- Descriptive analysis of the datasets, Exploratory data analysis and Visualizing related to product sales, and marketing for businesses, and created economic plans to help retail sector expand and evaluate inventory.
-- Visualized underlying patterns, trends, and relationships between factors such as product sales, population, disposable income, household income, retail commodity, and trade sector.
 - Explored and studied the dataset to determine factors for trend analysis.
 - Cleaned the data to visualize effectively.
 - Converted tabular data into graphs for clear and understandable analysis.
+- Descriptive analysis of the datasets, Exploratory data analysis, and Visualizing related to product sales, and marketing for businesses, and created economic plans to help the retail sector expand and evaluate inventory.
+- Visualized underlying patterns, trends, and relationships between factors such as product sales, population, disposable income, household income, retail commodity, and trade sector.
 
 ## Analysis 
 - The below graphs are the Analysis of the retail trade sector
@@ -29,7 +29,7 @@ I used the python language(pandas,numpy,mathplotlib) to visualize this project. 
 ## How does the sales impact over the years in different retail stores?
 ![image](https://github.com/vidd01/Sales-project/assets/122332733/97dbcca9-5600-4d50-9e92-49d4842fdaff)
 
-## What is the trend in food and beverage products sales across different retail stores over the period?
+## What is the trend in food and beverage product sales across different retail stores over the period?
 ![image](https://github.com/vidd01/Sales-project/assets/122332733/590aeccb-9e9f-43ba-8c7e-380311bb4418)
 
 ## What is the trend in sales of motor vehicles, parts, services, and rentals across different retail stores over the period?
@@ -42,7 +42,15 @@ I used the python language(pandas,numpy,mathplotlib) to visualize this project. 
 ## Conclusion
 - In conclusion, food and automotive products have higher sales compared to other retail categories, while most categories experienced minor growth.
 - Auto and food/beverage retailers have higher sales than general merchandise retailers, and there has been a consistent upward trend in food/beverage and automobile sales.
-- While some retail categories experienced declines or fluctuations, others have same growth over time.
+- While some retail categories experienced declines or fluctuations, others have the same growth over time.
+
+## Key takeaways from this project
+### What did I learn from this project?
+I learned which retail sector has higher sales and which has least.
+### What were some challenges that I faced during the project?
+Getting the dataset was challenging as also finding similar datasets of the population to compare the sales.
+### What are some real-life use cases?
+It helps the targeted audience to focus on their weakness and improve that sector.
 
 
 
