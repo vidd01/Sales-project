@@ -1,4 +1,4 @@
-# Sales-project
+# Sales-Analysis-project
 In this project, I analyzed the data to understand the Retail sector's contribution to the North American economy
 
 ## Introduction
@@ -46,7 +46,7 @@ I used the Python language(pandas, numpy, mathplotlib) to visualize this project
 
 ## Key takeaways from this project
 ### What did I learn from this project?
-I learned which retail sector has higher sales and which has least.
+I learned about Python libraries i.e pandas, matplotlib, plotly, numpy. Also data analysis and visualization.
 ### What were some challenges that I faced during the project?
 Getting the dataset was challenging as also finding similar datasets of the population to compare the sales.
 ### What are some real-life use cases?
